@@ -1,6 +1,6 @@
 # Conformance class: Information accessibility, Protected Sites (DRAFT)
 
-Conformance class for the requirements related to the accessibility of information stored in registries (code lists, coordinate reference systems).
+Conformance class for the requirements related to the accessibility of referenced information, for example, information stored in registries (code lists, coordinate reference systems).
 
 To be able to test this conformance class, the encoding of the data set must be known, i.e. this is a parameterized conformance class. The XPath expressions used in this test suite assume that the GML encoding is used. If used with the GML encoding this conformance class has an indirect dependency to the conformance class "GML application schema for Protected Sites".
 
@@ -50,6 +50,7 @@ TG DS Template <a name="ref_TG_DS_tmpl"></a>   | [INSPIRE Data Specification Tem
 | Identifier                                                        | Status   | Test case in [TG DS-PS](#ref_TG_DS_PS)  |
 | ----------------------------------------------------------------- | -------- | ------------ |
 | [Code lists](http://inspire.ec.europa.eu/id/ats/data-ps/3.2/ps-ia/code-list)  | ready for review  | A.6.1 |
+| [Feature references](http://inspire.ec.europa.eu/id/ats/data-ps/3.2/hy-ps/features)  | ready for review  | A.1.4 |
 
 ## XML namespace prefixes <a name="namespaces"></a>
 
