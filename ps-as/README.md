@@ -54,8 +54,7 @@ The following prefixes are used to refer to the corresponding XML namespaces in 
 
 Prefix         | Namespace
 -------------- | -------------------------------------------------
-ps3            | urn:x-inspire:specification:gmlas:ProtectedSites:3.0
-ps             | http://inspire.ec.europa.eu/schemas/ps/4.0
+ps             | http://inspire.ec.europa.eu/schemas/ps/5.0
 base           | http://inspire.ec.europa.eu/schemas/base/3.3
 gml            | http://www.opengis.net/gml/3.2
 wfs            | http://www.opengis.net/wfs/2.0
